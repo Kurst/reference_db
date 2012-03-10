@@ -1,0 +1,105 @@
+body
+{
+	background:#f4f4f4;
+       	
+        color:#464646;
+	font-weight:500;
+	font-size:0.9em;
+
+}
+
+#label
+{
+
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-bottom:#ccc solid 1px;
+        background: #464646;
+        color:#fff;
+        font-weight:600;
+}
+#container
+{
+	background:#fff;
+
+	border:#ccc solid 1px;
+	width:400px;
+	height:235px;
+	margin:0 auto;
+	margin-top:120px;
+}
+#login
+{
+
+
+	padding-top:10px;
+	padding-left:30px;
+
+}
+#error
+{
+        color:#ff0000;
+        font-size:10pt;
+}
+
+#pic
+{
+	float:right;
+}
+input#username, input#password, input#fld{
+
+	background-position: 2px 2px;
+	background-repeat: no-repeat;
+	width: 320px;
+	padding: 2px 2px 2px 5px;
+	font-size: 14px;
+	color: #808080;
+	border: 1px solid #808080;
+}
+
+input#submit
+{
+        margin-top:5px;
+	border:#808080 solid 1px;
+	background: #f4f4f4;
+}
+input#datepicker
+{
+        background-position: 2px 2px;
+	background-repeat: no-repeat;
+	width: 80px;
+	padding: 2px 2px 2px 5px;
+	font-size: 14px;
+	color: #808080;
+	border: 1px solid #808080;
+}
+
+select
+{
+        background-position: 2px 2px;
+	background-repeat: no-repeat;
+	width: 50px;
+	padding: 2px 2px 2px 5px;
+	font-size: 14px;
+	color: #808080;
+	border: 1px solid #808080;
+}
+
+#reg
+{
+
+        font-size: 10pt;
+        margin-left:250px;
+        margin-top: 20px;
+}
+a
+{
+        color:#ababab;
+        text-decoration: none;
+}
+a:hover
+{
+         text-decoration: underline;
+}
+

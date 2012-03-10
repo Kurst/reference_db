@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-05-30 13:53:48 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, login/static/images/acl/login-input-username.png, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 13:53:48 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, login/static/images/acl/login-input-password.png, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 13:54:01 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, login/static/images/acl/login-input-password.png, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 13:54:01 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, login/static/images/acl/login-input-username.png, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 14:04:00 +04:00 --- error: Не пойманное Kohana_Database_Exception: Ошибка SQL: Unknown column 'publisher.name' in 'order clause' - CALL getAllPublishers(); в файле N:/home/reference_db/www/system/libraries/drivers/Database/Mysqli.php, на строке 142
+2011-05-30 14:04:29 +04:00 --- error: Не пойманное Kohana_Database_Exception: Ошибка SQL: Unknown column 'publisher.name' in 'order clause' - CALL getAllPublishers(); в файле N:/home/reference_db/www/system/libraries/drivers/Database/Mysqli.php, на строке 142
+2011-05-30 14:16:25 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, my/publisher, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 14:16:29 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, login/static/images/acl/login-input-username.png, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 14:16:29 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, login/static/images/acl/login-input-password.png, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 14:22:38 +04:00 --- error: Не пойманное Kohana_Exception: Запрошенный вид, my/publisher_view_details, не найден в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 1162
+2011-05-30 14:23:14 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, edit/publishers, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 14:41:30 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, edit/publishers, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 17:25:57 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, login/static/images/acl/login-input-username.png, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841
+2011-05-30 17:25:57 +04:00 --- error: Не пойманное Kohana_404_Exception: Запрошенная страница, login/static/images/acl/login-input-password.png, не найдена. в файле N:/home/reference_db/www/system/core/Kohana.php, на строке 841

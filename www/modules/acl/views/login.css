@@ -1,0 +1,88 @@
+body
+{
+	background:#f4f4f4;	
+	color:#ababab;
+        color:#464646;
+        
+	font-weight:500;
+	font-size:0.9em;
+	
+}
+
+#label
+{
+	
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-bottom:#ccc solid 1px;
+        background: #464646;
+        color:#fff;
+        font-weight:600;
+}
+#container
+{
+	background:#fff;
+	
+	border:#ccc solid 1px;
+	width:370px;
+	height:195px;
+	margin:0 auto; 
+	margin-top:150px;
+}
+#login
+{
+	
+	
+	padding-top:10px;
+	padding-left:30px;
+	
+}
+
+#pic
+{
+	float:right;
+}
+input#username, input#password {
+	
+	background-position: 2px 2px;
+	background-repeat: no-repeat;
+	width: 120px;
+	padding: 2px 2px 2px 18px;
+	font-size: 14px;
+	color: #808080;
+	border: 1px solid #808080;
+}
+input#username {
+	background-image: url(static/images/acl/login-input-username.png);
+}
+input#password {
+	background-image: url(static/images/acl/login-input-password.png);
+}
+input#submit
+{
+	
+	border:#808080 solid 1px;
+	background: #f4f4f4;
+        cursor: pointer;
+}
+
+#reg
+{
+        
+        font-size: 10pt;
+        margin-left:135px;
+        margin-top: 20px;
+}
+
+a
+{
+        color:#ababab;
+        color:#808080;
+        text-decoration: none;
+}
+a:hover
+{
+         text-decoration: underline;
+}
+

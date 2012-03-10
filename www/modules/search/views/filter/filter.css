@@ -1,0 +1,187 @@
+body
+{
+        
+	background:#f4f4f4;
+        background:#b2bdc4;
+        background:#efefef;
+	color:#464646;
+	font-weight:500;
+	font-size:0.9em;
+	
+}
+
+#topmenu
+{
+        width: 100%;
+        border-bottom: 1px solid #ccc;
+      
+}
+#topmenu a
+{
+        font-size:10pt;
+        color:#464646;
+        
+        text-decoration: none;
+}
+#topmenu a:hover
+{
+         text-decoration: underline;
+}
+
+
+#label
+{
+	
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-bottom:#ccc solid 1px;
+        font-size:10pt;
+        background: #464646;
+        color:#fff;
+        
+        position: relative;
+        height: 15px;
+}
+
+#label_entry
+{
+        position: absolute;
+        right:5px;
+         
+
+}
+
+#label_entry a
+{
+       font-size:10pt;
+       color:#fff;
+
+       text-decoration: none;
+
+
+}
+#label_entry a:hover
+{
+         text-decoration: underline;
+}
+#label_l
+{
+        font-weight:600;
+        position: absolute;
+        float:right;
+        left:5px;
+        
+}
+#container
+{
+	background:#fff;
+	
+        
+	border:#808080 solid 1px;
+	width:600px;
+	height:250px;
+	margin:0 auto; 
+	margin-top:150px;
+}
+
+#tbl
+{
+        
+          margin-left: 20px;
+        
+}
+
+#logo
+{
+        margin-top: -10px;
+        margin-left: -10px;
+}
+#login
+{
+	
+	
+	padding-top:10px;
+	padding-left:10px;
+	
+}
+
+#pic
+{
+	float:right;
+}
+input#search {
+	
+	
+	background-repeat: no-repeat;
+	width: 400px;
+        height: 25px;
+	padding-left: 10px;
+        margin-bottom:2px;
+	font-size: 16px;
+	
+	border: 1px solid #808080;
+       
+}
+
+input#submit
+{
+        background: url(static/images/search/search.png);
+	height: 36px;
+	border:#808080 solid 1px;
+	background: #f4f4f4;
+}
+
+input#lupa
+{
+        margin:0px;
+        padding:0px;
+	height: 36px;
+	
+	background: #f4f4f4;
+}
+
+#params_label a
+{
+        margin-left: 67px;
+        font-size:0.9em;
+    	color:#464646;
+        text-decoration: none;
+}
+
+#params_label a:hover
+{
+        
+        text-decoration: underline;
+}
+
+
+#params
+{
+        margin-left: 61px;
+        font-size:0.9em;
+    	color:#464646;
+        margin-top: 5px;
+        
+}
+
+#menu
+{
+        margin-top: 10px;
+        margin-left: 65px;
+        font-size:10pt;
+        color:#464646;
+
+
+}
+
+#footer
+{
+        width:600px;
+	height:260px;
+	margin:0 auto;
+	text-align: right;
+        color:#464646;
+        font-size: 0.8em;
+
+}
